@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/test-go/testify/require"
+	"github.com/stretchr/testify/require"
 
 	bip39 "github.com/cosmos/go-bip39"
 
